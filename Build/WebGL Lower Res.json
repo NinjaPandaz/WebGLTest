@@ -1,0 +1,16 @@
+{
+"companyName": "George Cremen-Merrill",
+"productName": "FSM Simulation",
+"productVersion": "0.1",
+"dataUrl": "WebGL Lower Res.data.unityweb",
+"wasmCodeUrl": "WebGL Lower Res.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Lower Res.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.7f1"
+}
